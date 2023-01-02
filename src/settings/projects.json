@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Project 1",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium ut nulla beatae sit accusamus? Laudantium aliquam optio, eveniet quidem natus necessitatibus quisquam vel dolorum totam quibusdam inventore esse amet repellat sequi eligendi asperiores rem omnis impedit quod ex doloribus accusamus qui. Quos iure, explicabo error iusto repellat cum suscipit deserunt?",
+        "image": "images/newyear.svg"
+    },
+    {
+        "title": "Project 2",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium ut nulla beatae sit accusamus? Laudantium aliquam optio, eveniet quidem natus necessitatibus quisquam vel dolorum totam quibusdam inventore esse amet repellat sequi eligendi asperiores rem omnis impedit quod ex doloribus accusamus qui. Quos iure, explicabo error iusto repellat cum suscipit deserunt?",
+        "image": "images/newyear.svg"
+    },
+    {
+        "title": "Project 3",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium ut nulla beatae sit accusamus? Laudantium aliquam optio, eveniet quidem natus necessitatibus quisquam vel dolorum totam quibusdam inventore esse amet repellat sequi eligendi asperiores rem omnis impedit quod ex doloribus accusamus qui. Quos iure, explicabo error iusto repellat cum suscipit deserunt?",
+        "image": "images/newyear.svg"
+    }
+]
